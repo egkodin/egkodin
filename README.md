@@ -29,9 +29,9 @@
 Если ты впервые открыл мой профиль, лучше начать отсюда:
 
 - 🪐 **[Saturn](https://github.com/egkodin/saturn)** – мой главный проект: социальная веб-платформа на FastAPI, PostgreSQL, Docker, WebSocket, Alembic, pytest и GitHub Actions.
-- 🏫 **[school-space](https://github.com/egkodin/school-space)** – ранний школьный веб-портал, с которого начался мой интерес к реальным пользовательским проектам.
+- 🏫 **[1358.space](https://github.com/egkodin/1358.space)** – ранний школьный веб-портал, с которого начался мой интерес к реальным серьезным проектам.
 - 📝 **[blog_django](https://github.com/egkodin/blog_django)** – блог на Django с регистрацией, авторизацией, админ-панелью и профилями пользователей.
-- 🧰 **[Textoom](https://github.com/egkodin/Textoom)** и **[pylendar](https://github.com/egkodin/pylendar)** – ранние Python/Tkinter-проекты, где я учился делать простые настольные приложения.
+- 🧰 **[Textoom](https://github.com/egkodin/Textoom)** и **[pylendar](https://github.com/egkodin/pylendar)** – ранние Python/GUI-проекты, на которых я учился делать настольные графические приложения.
 
 ---
 
@@ -137,7 +137,7 @@
 |---|---|---|
 | **[Saturn](https://github.com/egkodin/saturn)** | FastAPI, PostgreSQL, Docker, WebSocket, pytest, GitHub Actions | показывает самый актуальный технический уровень |
 | **[Django Blog](https://github.com/egkodin/blog_django)** | Django, регистрация, авторизация, админ-панель, профили | ранний опыт с веб-приложениями и пользователями |
-| **[school-space](https://github.com/egkodin/school-space)** | школьный веб-портал, обратная связь, чат, первые пользователи | история первого большого проекта |
+| **[1358.space](https://github.com/egkodin/1358.space)** | школьный веб-портал, обратная связь, чат, первые пользователи | история первого большого проекта |
 | **[Textoom](https://github.com/egkodin/Textoom)** | Python, Tkinter, текстовый редактор | ранняя практика настольных приложений |
 | **[pylendar](https://github.com/egkodin/pylendar)** | Python, Tkinter, calendar, datetime | ранняя практика интерфейсов и стандартной библиотеки |
 
