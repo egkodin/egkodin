@@ -23,9 +23,7 @@
 
 ---
 
-## С чего начать
-
-Если ты впервые открыл мой профиль, лучше начать отсюда:
+## ⭐️Опыт
 
 - 🪐 **[Saturn](https://github.com/egkodin/saturn)** – мой главный проект: социальная веб-платформа на FastAPI, PostgreSQL, Docker, WebSocket, Alembic, pytest и GitHub Actions.
 - 🏫 **[1358.space](https://github.com/egkodin/1358.space)** – ранний школьный веб-портал, с которого начался мой интерес к реальным серьезным проектам.
