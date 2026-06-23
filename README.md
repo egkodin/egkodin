@@ -18,14 +18,13 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
 ---
 
 ## ⭐️ Опыт
 
-- 🪐 **[Saturn](https://github.com/egkodin/saturn)** – мой главный проект: социальная веб-платформа на FastAPI, PostgreSQL, Docker, WebSocket, Alembic, pytest и GitHub Actions.
+- 🪐 **[Saturn](https://github.com/egkodin/saturn)** – мой главный проект: социальная веб-платформа на FastAPI, PostgreSQL, Docker, WebSocket, Alembic и pytest.
 - 🏫 **[1358.space](https://github.com/egkodin/1358.space)** – ранний школьный веб-портал, с которого начался мой интерес к реальным серьезным проектам.
 - 📝 **[blog_django](https://github.com/egkodin/blog_django)** – блог на Django с регистрацией, авторизацией, админ-панелью и профилями пользователей.
 - 🧰 **[Textoom](https://github.com/egkodin/Textoom)** и **[pylendar](https://github.com/egkodin/pylendar)** – ранние Python/GUI-проекты, на которых я учился делать настольные графические приложения.
@@ -113,7 +112,7 @@
   </tr>
   <tr>
     <td><b>Инфраструктура</b></td>
-    <td>Docker Compose, nginx, Linux, Git, GitHub Actions</td>
+    <td>Docker Compose, nginx, Linux, Git</td>
   </tr>
   <tr>
     <td><b>Качество</b></td>
@@ -131,7 +130,7 @@
 
 | Проект | Что внутри | Зачем смотреть |
 |---|---|---|
-| **[Saturn](https://github.com/egkodin/saturn)** | FastAPI, PostgreSQL, Docker, WebSocket, pytest, GitHub Actions | показывает самый актуальный технический уровень |
+| **[Saturn](https://github.com/egkodin/saturn)** | FastAPI, PostgreSQL, Docker, WebSocket, pytest | показывает самый актуальный технический уровень |
 | **[Django Blog](https://github.com/egkodin/blog_django)** | Django, регистрация, авторизация, админ-панель, профили | ранний опыт с веб-приложениями и пользователями |
 | **[1358.space](https://github.com/egkodin/1358.space)** | школьный веб-портал, обратная связь, чат, первые пользователи | история первого большого проекта |
 | **[Textoom](https://github.com/egkodin/Textoom)** | Python, Tkinter, текстовый редактор | ранняя практика настольных приложений |
