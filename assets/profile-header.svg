@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Egor Ovechkin — Backend and Desktop Developer</title>
+  <desc id="desc">A dark technology-themed banner with orbital graphics, code symbols, and the name Egor Ovechkin.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b18"/>
+      <stop offset="0.52" stop-color="#11152a"/>
+      <stop offset="1" stop-color="#071b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.52" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glowPurple">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+  <circle cx="170" cy="70" r="210" fill="url(#glowPurple)"/>
+  <circle cx="1060" cy="270" r="260" fill="url(#glowCyan)"/>
+
+  <g opacity="0.8">
+    <path d="M790 170c0-91 74-165 165-165s165 74 165 165-74 165-165 165-165-74-165-165Z" fill="none" stroke="#7c3aed" stroke-opacity="0.28" stroke-width="1.4"/>
+    <path d="M834 170c0-67 54-121 121-121s121 54 121 121-54 121-121 121-121-54-121-121Z" fill="none" stroke="#22d3ee" stroke-opacity="0.24" stroke-width="1.2" stroke-dasharray="7 10"/>
+    <ellipse cx="955" cy="170" rx="185" ry="66" fill="none" stroke="#a78bfa" stroke-opacity="0.34" stroke-width="1.4" transform="rotate(-16 955 170)"/>
+    <circle cx="1083" cy="105" r="7" fill="#22d3ee" filter="url(#softGlow)"/>
+    <circle cx="818" cy="224" r="5" fill="#a78bfa" filter="url(#softGlow)"/>
+    <circle cx="955" cy="170" r="38" fill="#10172c" stroke="url(#accent)" stroke-width="2"/>
+    <text x="955" y="180" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="700" fill="#e2e8f0">{ }</text>
+  </g>
+
+  <g transform="translate(82 67)">
+    <rect width="164" height="32" rx="16" fill="#8b5cf6" fill-opacity="0.14" stroke="#a78bfa" stroke-opacity="0.42"/>
+    <circle cx="18" cy="16" r="4" fill="#22d3ee"/>
+    <text x="32" y="21" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.8" fill="#c4b5fd">OPEN TO BUILD</text>
+
+    <text x="0" y="102" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="1.2" fill="#f8fafc">EGOR OVECHKIN</text>
+    <rect x="2" y="120" width="490" height="4" rx="2" fill="url(#accent)"/>
+    <text x="0" y="166" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="3.6" fill="#a5b4fc">BACKEND  •  DESKTOP  •  SYSTEMS</text>
+    <text x="0" y="208" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#94a3b8">Python for services. Rust for native tools. Linux underneath.</text>
+  </g>
+
+  <g transform="translate(82 294)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+    <text fill="#64748b">01</text><text x="28" fill="#cbd5e1">design the flow</text>
+    <text x="190" fill="#64748b">02</text><text x="218" fill="#cbd5e1">protect the data</text>
+    <text x="388" fill="#64748b">03</text><text x="416" fill="#cbd5e1">ship the system</text>
+  </g>
+</svg>
