@@ -26,7 +26,7 @@
 ## ⭐️ Опыт
 
 - 🪐 **[Saturn](https://github.com/egkodin/saturn)** — мой главный веб-проект: социальная платформа на FastAPI, PostgreSQL, Docker, WebSocket, Alembic и pytest.
-- 🎵 **Taglet** — новый нативный редактор ID3v2-метаданных MP3 на Rust с локальной обработкой файлов, резервным копированием и поддержкой обложек. Проект находится в активной разработке, репозиторий пока приватный.
+- 🎵 **[Taglet] (https://github.com/egkodin/taglet)** — нативный редактор метаданных MP3 на Rust с локальной обработкой файлов, резервным копированием и поддержкой обложек.
 - 🏫 **[1358.space](https://github.com/egkodin/1358.space)** — ранний школьный веб-портал, с которого начался мой интерес к реальным серьёзным проектам.
 - 📝 **[blog_django](https://github.com/egkodin/blog_django)** — блог на Django с регистрацией, авторизацией, админ-панелью и профилями пользователей.
 - 🧰 **[Textoom](https://github.com/egkodin/Textoom)** и **[pylendar](https://github.com/egkodin/pylendar)** — ранние Python/GUI-проекты, на которых я учился делать настольные графические приложения.
