@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Статистика профиля Егора Овечкина</title>
+  <desc id="desc">Локальная карточка с количеством публичных репозиториев, ключевых проектов, направлений разработки и периодом инженерного пути.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b18"/>
+      <stop offset="0.55" stop-color="#11152a"/>
+      <stop offset="1" stop-color="#071b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity="0.028"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#grid)"/>
+  <rect x="48" y="40" width="1104" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="54" y="82" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="2" fill="#c4b5fd">СТАТИСТИКА ПРОФИЛЯ</text>
+  <text x="1146" y="82" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#64748b">локальная карточка · без внешних сервисов</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(48 108)">
+      <rect width="252" height="126" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#8b5cf6" stroke-opacity="0.34"/>
+      <circle cx="218" cy="30" r="6" fill="#a78bfa" filter="url(#glow)"/>
+      <text x="24" y="61" font-size="38" font-weight="800" fill="#f8fafc">12</text>
+      <text x="24" y="91" font-size="15" font-weight="700" fill="#cbd5e1">публичных репозиториев</text>
+    </g>
+
+    <g transform="translate(332 108)">
+      <rect width="252" height="126" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#6366f1" stroke-opacity="0.34"/>
+      <circle cx="218" cy="30" r="6" fill="#818cf8" filter="url(#glow)"/>
+      <text x="24" y="61" font-size="38" font-weight="800" fill="#f8fafc">2</text>
+      <text x="24" y="91" font-size="15" font-weight="700" fill="#cbd5e1">ключевых проекта</text>
+      <text x="24" y="111" font-size="12" fill="#64748b">Saturn · Taglet</text>
+    </g>
+
+    <g transform="translate(616 108)">
+      <rect width="252" height="126" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#22d3ee" stroke-opacity="0.30"/>
+      <circle cx="218" cy="30" r="6" fill="#22d3ee" filter="url(#glow)"/>
+      <text x="24" y="61" font-size="38" font-weight="800" fill="#f8fafc">2</text>
+      <text x="24" y="91" font-size="15" font-weight="700" fill="#cbd5e1">направления разработки</text>
+      <text x="24" y="111" font-size="12" fill="#64748b">серверы · приложения</text>
+    </g>
+
+    <g transform="translate(900 108)">
+      <rect width="252" height="126" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#14b8a6" stroke-opacity="0.30"/>
+      <circle cx="218" cy="30" r="6" fill="#2dd4bf" filter="url(#glow)"/>
+      <text x="24" y="61" font-size="31" font-weight="800" fill="#f8fafc">2020→2026</text>
+      <text x="24" y="91" font-size="15" font-weight="700" fill="#cbd5e1">путь разработки</text>
+      <text x="24" y="111" font-size="12" fill="#64748b">от первых сайтов к системам</text>
+    </g>
+  </g>
+
+  <text x="600" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#64748b">продумываю сценарии · защищаю данные · тестирую · документирую запуск</text>
+</svg>
