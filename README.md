@@ -15,22 +15,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D1%8B%D0%B5+%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B5+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E+%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D0%BD%D0%B0+Rust;%D0%A3%D1%87%D1%83%D1%81%D1%8C%2C+%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D1%8F+%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Направления моей разработки">
+  <strong>Создаю надёжные серверные системы · Разрабатываю нативные инструменты на Rust · Учусь, выпуская реальные проекты</strong>
 </p>
 
-<p align="center">
-  <a href="#about">Обо мне</a> ·
-  <a href="#projects">Проекты</a> ·
-  <a href="#stack">Стек</a> ·
-  <a href="#journey">Путь</a> ·
-  <a href="#contact">Контакты</a>
-</p>
+| [Обо мне](#обо-мне) | [Проекты](#проекты) | [Стек](#стек-и-технологии) | [Путь](#путь-разработчика) | [Статистика](#статистика) | [Контакты](#контакты) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ---
 
-<a id="about"></a>
-
-## 〔01〕 Обо мне
+## Обо мне
 
 Я **Егор Овечкин** — разработчик, которому интересен весь путь продукта: от пользовательского сценария и структуры данных до обработки ошибок, тестов, развёртывания и понятной документации.
 
@@ -40,9 +33,9 @@
 
 ```text
 ТЕКУЩИЙ ВЕКТОР
-├── создаю       → Saturn: серверная логика, данные, функции реального времени
-├── исследую     → Taglet: Rust, нативный интерфейс, локальная работа с файлами
-├── улучшаю      → архитектура, тестирование, инфраструктура Linux
+├── создаю        → Saturn: серверная логика, данные, функции реального времени
+├── исследую      → Taglet: Rust, нативный интерфейс, локальная работа с файлами
+├── улучшаю       → архитектура, тестирование, инфраструктура Linux
 └── следующий шаг → первая профессиональная роль в IT или стажировка
 ```
 
@@ -57,9 +50,7 @@
 
 ---
 
-<a id="projects"></a>
-
-## 〔02〕 Избранные проекты
+## Проекты
 
 ### 🪐 [Saturn](https://github.com/egkodin/saturn) — социальная платформа для совместной работы людей и ИИ
 
@@ -97,15 +88,6 @@
 
 **Почему этот проект важен:** Taglet стал переходом от ранних экспериментов с графическими интерфейсами к нативному приложению с валидацией, обработкой ошибок, безопасным сохранением и вниманием к пользовательским данным.
 
-<p align="center">
-  <a href="https://github.com/egkodin/saturn">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=egkodin&repo=saturn&locale=ru&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8&icon_color=22D3EE" alt="Карточка репозитория Saturn">
-  </a>
-  <a href="https://github.com/egkodin/taglet">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=egkodin&repo=taglet&locale=ru&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8&icon_color=22D3EE" alt="Карточка репозитория Taglet">
-  </a>
-</p>
-
 ### Ещё несколько точек на карте
 
 - 🏫 **[1358.space](https://github.com/egkodin/1358.space)** — первый крупный веб-проект с реальными пользователями, обратной связью, чатом и несколькими итерациями продукта.
@@ -116,9 +98,7 @@
 
 ---
 
-<a id="stack"></a>
-
-## 〔03〕 Технологический радар
+## Стек и технологии
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,fastapi,django,postgres,docker,linux,git,github,nginx,html,css,js&theme=dark&perline=13" alt="Иконки используемых технологий">
@@ -140,9 +120,7 @@
 
 ---
 
-<a id="journey"></a>
-
-## 〔04〕 Путь разработчика
+## Путь разработчика
 
 ### 2020 → 2023 · от сайта к реальным пользователям
 
@@ -158,18 +136,17 @@
 
 ---
 
-## 〔05〕 Активность на GitHub
+## Статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=egkodin&locale=ru&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8&icon_color=22D3EE" alt="Статистика Егора на GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egkodin&locale=ru&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8" alt="Наиболее используемые языки">
+  <img src="./assets/profile-stats.svg" width="100%" alt="Статистика профиля Егора Овечкина">
 </p>
+
+Статистика оформлена как локальная SVG-карточка внутри репозитория. Она не зависит от ограничений или доступности сторонних сервисов.
 
 ---
 
-<a id="contact"></a>
-
-## 〔06〕 Давайте создавать полезные системы
+## Контакты
 
 Я открыт к первой профессиональной роли в IT, стажировке или технической позиции, где ценятся любознательность, ответственность и готовность разбираться в реальных задачах.
 
