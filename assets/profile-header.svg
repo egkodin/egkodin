@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Егор Овечкин — разработчик серверных систем и настольных приложений</title>
-  <desc id="desc">Тёмная технологичная шапка с орбитальной графикой, символами кода и именем Егора Овечкина.</desc>
+  <title id="title">Егор Овечкин — разработчик серверных систем, приложений и инструментов для ИИ-агентов</title>
+  <desc id="desc">Тёмная технологичная шапка с орбитальной графикой, символами кода и направлениями разработки Егора Овечкина.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#090b18"/>
@@ -50,14 +50,15 @@
     <text x="32" y="21" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#c4b5fd">ГОТОВ СОЗДАВАТЬ</text>
 
     <text x="0" y="102" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800" letter-spacing="1.2" fill="#f8fafc">ЕГОР ОВЕЧКИН</text>
-    <rect x="2" y="120" width="490" height="4" rx="2" fill="url(#accent)"/>
-    <text x="0" y="166" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" letter-spacing="2.5" fill="#a5b4fc">СЕРВЕРЫ  •  ПРИЛОЖЕНИЯ  •  СИСТЕМЫ</text>
-    <text x="0" y="208" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#94a3b8">Python для сервисов. Rust для нативных инструментов. Linux в основе.</text>
+    <rect x="2" y="120" width="600" height="4" rx="2" fill="url(#accent)"/>
+    <text x="0" y="166" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="1.7" fill="#a5b4fc">СЕРВЕРЫ  •  ПРИЛОЖЕНИЯ  •  ИНСТРУМЕНТЫ ДЛЯ ИИ</text>
+    <text x="0" y="208" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#94a3b8">Python для сервисов. Rust для приложений. Asterframe для ИИ-агентов.</text>
   </g>
 
   <g transform="translate(82 294)" font-family="Arial, Helvetica, sans-serif" font-size="12">
-    <text fill="#64748b">01</text><text x="28" fill="#cbd5e1">продумать сценарий</text>
-    <text x="214" fill="#64748b">02</text><text x="242" fill="#cbd5e1">защитить данные</text>
-    <text x="420" fill="#64748b">03</text><text x="448" fill="#cbd5e1">запустить систему</text>
+    <text fill="#64748b">01</text><text x="28" fill="#cbd5e1">понять контекст</text>
+    <text x="188" fill="#64748b">02</text><text x="216" fill="#cbd5e1">продумать сценарий</text>
+    <text x="400" fill="#64748b">03</text><text x="428" fill="#cbd5e1">проверить качество</text>
+    <text x="622" fill="#64748b">04</text><text x="650" fill="#cbd5e1">запустить систему</text>
   </g>
 </svg>
