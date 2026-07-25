@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://t.me/egor_kodin"><img src="https://img.shields.io/badge/Telegram-@egor__kodin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:egor.coden@mail.ru"><img src="https://img.shields.io/badge/Почта-egor.coden%40mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Электронная почта"></a>
-  <a href="https://github.com/egkodin/resume"><img src="https://img.shields.io/badge/Резюме-открыть-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Открыть резюме"></a>
+  <a href="mailto:egor.coden@mail.ru"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%87%D1%82%D0%B0-egor.coden%40mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Электронная почта"></a>
+  <a href="https://github.com/egkodin/resume"><img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-7C3AED?style=for-the-badge&logo=readme&logoColor=white" alt="Открыть резюме"></a>
 </p>
 
 <h1 align="center">Превращаю идеи в системы,<br>которым можно доверить данные</h1>
@@ -110,8 +110,8 @@ Agent skills · Node.js · Python · UI/UX intelligence · browser iteration
 Если вам нужен разработчик, который любит докапываться до причин, спокойно работает со сложностью и не считает README необязательным файлом — буду рад знакомству.
 
 <p align="center">
-  <a href="https://t.me/egor_kodin"><img src="https://img.shields.io/badge/Написать_в_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram"></a>
-  <a href="mailto:egor.coden@mail.ru"><img src="https://img.shields.io/badge/Отправить_письмо-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Отправить письмо"></a>
+  <a href="https://t.me/egor_kodin"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C_%D0%B2_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram"></a>
+  <a href="mailto:egor.coden@mail.ru"><img src="https://img.shields.io/badge/%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Отправить письмо"></a>
 </p>
 
 <p align="center">
