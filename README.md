@@ -1,5 +1,5 @@
 <p>
-  <a href="https://egkodin.github.io/resume/"><img src="./assets/header.png" width="100%" alt="Егор Овечкин. Python-разработчик, Москва. Собираю веб-сервисы целиком и делаю сайты под ключ."></a>
+  <a href="https://egkodin.github.io/resume/"><img src="./assets/header.png" width="100%" alt="Егор Овечкин. Разработчик, Москва. Собираю веб-сервисы целиком и делаю сайты под ключ."></a>
 </p>
 
 <p align="center">
