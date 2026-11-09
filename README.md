@@ -1,5 +1,5 @@
 <p>
-  <a href="https://egkodin.github.io/resume/"><img src="./assets/header.png" width="100%" alt="Егор Овечкин. Начинающий Python-разработчик, студент РТУ МИРЭА. Пишу веб-сервисы и делаю сайты на заказ."></a>
+  <a href="https://egkodin.github.io/resume/"><img src="./assets/header.png" width="100%" alt="Егор Овечкин. Python-разработчик, Москва. Собираю веб-сервисы целиком и делаю сайты под ключ."></a>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="mailto:egor.coden@mail.ru"><img src="./assets/icons/mail.svg" height="20" alt=""> egor.coden@mail.ru</a>
 </p>
 
-Живу в Москве, учусь на бакалавриате с 2025 года. Собираю веб-сервисы целиком: схема базы, API, чат в реальном времени, тесты, запуск в Docker. Ищу стажировку или первую работу.
+Пишу код с 2020 года. Собираю веб-сервисы целиком: схема базы, API, чат в реальном времени, тесты, запуск в Docker.
 
 ## Проекты
 
@@ -31,5 +31,5 @@
 - [ДФК «Спартак» Снегири](https://egkodin.github.io/spartak-snegiri/), детская футбольная секция
 
 <p>
-  <img src="./assets/timeline.png" width="100%" alt="Проекты по годам: 2020 школьный портал; 2021 Django Blog, Textoom, Breakout Lite, Pylendar, чат по нику; 2022 сервер портала на Go; 2023 gpt-free.ru; 2025 поступил в РТУ МИРЭА; 2026 Saturn, OxiGram, Taglet, Asterframe, FRAME/01, Светослед, СпортАкадемКлуб, СЛОЙ, ДФК «Спартак».">
+  <img src="./assets/timeline.png" width="100%" alt="Проекты по годам: 2020 школьный портал; 2021 Django Blog, Textoom, Breakout Lite, Pylendar, чат по нику; 2022 сервер портала на Go; 2023 gpt-free.ru; 2026 Saturn, OxiGram, Taglet, Asterframe, FRAME/01, Светослед, СпортАкадемКлуб, СЛОЙ, ДФК «Спартак».">
 </p>
